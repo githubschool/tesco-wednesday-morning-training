@@ -1,0 +1,9 @@
+// My first Java program on script
+
+public static void Main{
+
+
+
+
+My test
+}
