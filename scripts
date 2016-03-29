@@ -1,0 +1,8 @@
+#include "Header.h"
+#include"GHSheaderfile.h"
+
+if (loginfail>5)
+Exit;
+else goto login();
+
+
